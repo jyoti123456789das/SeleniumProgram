@@ -8,9 +8,6 @@ public class ToCaptureURLOfWebPage1 {
 		 String url = driver.getCurrentUrl();
 		 System.out.println(url);
 			}
-
-		
-
 	}
 
 
